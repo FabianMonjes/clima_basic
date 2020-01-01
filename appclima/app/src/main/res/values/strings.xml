@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App Clima</string>
+    <string name="txt_grados">14ºc</string>
+    <string name="txt_ciudad">Concepcion</string>
+    <string name="txt_tiempo">Nublado</string>
+
+    <string name="txt_bienvenida">
+        Bienvenido a mi app del clima, para poder ver el clima de una ciudad selecciona en la opcion de abajo.
+    </string>
+    <string name="btn_concepcion">Clima en Concepcion</string>
+    <string name="btn_valdivia">Clima en Valdivia</string>
+    <string name="btn_shanghai">Clima en Shanghai</string>
+</resources>
